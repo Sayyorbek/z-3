@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: aqua;
+}
+.container{
+    background-color: white;
+    margin: 40px 550px;
+    width: 350px;
+    height: 600px;
+    border: 2px solid black;
+}
+.icon-header >i{
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 35px;
+}
+.icon-header > .bxs-cart {
+    padding-left: 235px;
+} 
+img{
+    width: 346px;
+    height: 250px;
+}
+.hero >h2, p {
+    padding: 0px 10px;
+}
+.bx-star{
+    font-size: 23px;
+}
+.bx-star:hover{
+    color: gold;
+    /* background-color: yellow; */
+    transition: 01s;
+}
+.icons-star{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.x1{
+    text-align: center;
+    font-size: 45px;
+    color: green;
+}
+sub{
+    font-size: 42px;
+    color: black;
+}
+button{
+    margin-left: 18px;
+    border: 0px solid aqua;
+    background-color: aqua;
+    border-radius: 30px;
+    width: 90%;
+    height: 50px;
+    font-size: 23px;
+}
